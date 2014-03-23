@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.EvenOrOdd", "01.EvenOrOdd\01.EvenOrOdd.csproj", "{2922D5EF-FEBE-4EF3-941E-B05881934D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DivisibleBy5And7", "02.DivisibleBy5And7\02.DivisibleBy5And7.csproj", "{8C8DA345-2639-4F1D-9743-ED5D025E2DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RectangleAreaAndPerimeter", "03.RectangleAreaAndPerimeter\03.RectangleAreaAndPerimeter.csproj", "{12E2DD78-47B3-4425-ABC4-ED5320C3445D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.arrayOfNumbers", "04.arrayOfNumbers\04.arrayOfNumbers.csproj", "{67C14A45-37BD-4606-888C-C14CE2315ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DivisibleNumbersOf34And9", "05.DivisibleNumbersOf34And9\05.DivisibleNumbersOf34And9.csproj", "{D56AB247-ED74-47B1-A574-E2ECE95F7A3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.PrimeNumCheck", "06.PrimeNumCheck\06.PrimeNumCheck.csproj", "{DCDD8EB7-1EEE-4BBA-AAC8-36C416BCEE30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2922D5EF-FEBE-4EF3-941E-B05881934D6E}.Debug|x86.ActiveCfg = Debug|x86
+		{2922D5EF-FEBE-4EF3-941E-B05881934D6E}.Debug|x86.Build.0 = Debug|x86
+		{2922D5EF-FEBE-4EF3-941E-B05881934D6E}.Release|x86.ActiveCfg = Release|x86
+		{2922D5EF-FEBE-4EF3-941E-B05881934D6E}.Release|x86.Build.0 = Release|x86
+		{8C8DA345-2639-4F1D-9743-ED5D025E2DFA}.Debug|x86.ActiveCfg = Debug|x86
+		{8C8DA345-2639-4F1D-9743-ED5D025E2DFA}.Debug|x86.Build.0 = Debug|x86
+		{8C8DA345-2639-4F1D-9743-ED5D025E2DFA}.Release|x86.ActiveCfg = Release|x86
+		{8C8DA345-2639-4F1D-9743-ED5D025E2DFA}.Release|x86.Build.0 = Release|x86
+		{12E2DD78-47B3-4425-ABC4-ED5320C3445D}.Debug|x86.ActiveCfg = Debug|x86
+		{12E2DD78-47B3-4425-ABC4-ED5320C3445D}.Debug|x86.Build.0 = Debug|x86
+		{12E2DD78-47B3-4425-ABC4-ED5320C3445D}.Release|x86.ActiveCfg = Release|x86
+		{12E2DD78-47B3-4425-ABC4-ED5320C3445D}.Release|x86.Build.0 = Release|x86
+		{67C14A45-37BD-4606-888C-C14CE2315ECE}.Debug|x86.ActiveCfg = Debug|x86
+		{67C14A45-37BD-4606-888C-C14CE2315ECE}.Debug|x86.Build.0 = Debug|x86
+		{67C14A45-37BD-4606-888C-C14CE2315ECE}.Release|x86.ActiveCfg = Release|x86
+		{67C14A45-37BD-4606-888C-C14CE2315ECE}.Release|x86.Build.0 = Release|x86
+		{D56AB247-ED74-47B1-A574-E2ECE95F7A3E}.Debug|x86.ActiveCfg = Debug|x86
+		{D56AB247-ED74-47B1-A574-E2ECE95F7A3E}.Debug|x86.Build.0 = Debug|x86
+		{D56AB247-ED74-47B1-A574-E2ECE95F7A3E}.Release|x86.ActiveCfg = Release|x86
+		{D56AB247-ED74-47B1-A574-E2ECE95F7A3E}.Release|x86.Build.0 = Release|x86
+		{DCDD8EB7-1EEE-4BBA-AAC8-36C416BCEE30}.Debug|x86.ActiveCfg = Debug|x86
+		{DCDD8EB7-1EEE-4BBA-AAC8-36C416BCEE30}.Debug|x86.Build.0 = Debug|x86
+		{DCDD8EB7-1EEE-4BBA-AAC8-36C416BCEE30}.Release|x86.ActiveCfg = Release|x86
+		{DCDD8EB7-1EEE-4BBA-AAC8-36C416BCEE30}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
